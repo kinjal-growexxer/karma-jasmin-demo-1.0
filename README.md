@@ -1,0 +1,1 @@
+# karma-jasmin-demo-1.0
